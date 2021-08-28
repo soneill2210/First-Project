@@ -16,7 +16,7 @@ position: relative;}
 .navbar ul, li, .nav-link
 {text-transform: uppercase;
 font-family:Space Grotesk,sans-serif ;
-font-size:20px;
+font-size:25px;
 color: white;
 text-align: center;
 list-style: none;
@@ -35,4 +35,4 @@ li a:hover{color:white;
 text-decoration: underline rgb(188, 206, 27) ;}
 
 li .active{background-color: rgb(188,206,27);
-border-radius: 25px;}
+border-radius: 20px;}
