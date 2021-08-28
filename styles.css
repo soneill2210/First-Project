@@ -124,3 +124,10 @@ padding:20px; }
   text-align: relative;}
 
   .lorry{width: 100%;}
+
+  
+.Rocco{float:left;
+    margin: 10px;
+    position: relative;
+    max-width:40%;
+    height:auto;}
