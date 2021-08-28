@@ -131,3 +131,50 @@ padding:20px; }
     position: relative;
     width:35%;
     height:auto;}
+
+    .LP{float:right;
+        margin:15px;
+        height:200px;
+        width:200px;}
+        .em-logos{
+            position: relative;
+            max-width:40%;
+            border-radius: 25px;
+            box-shadow: 5px 10px 9px black;
+            }
+            
+            
+            .history-info{margin: 20px;}
+            
+            h2{color: white;
+            padding:25px;
+            position: relative;
+            text-align: center;
+            text-decoration:underline 1px solid white;}
+            
+            .em-history{background-color:rgb(101, 99, 99);
+            border-radius: 30px;
+            align-items: center;
+            color: white;
+            justify-content: center;
+            padding: 20px;
+            margin:20px;
+            max-width: auto;
+            border:2px solid white;}
+            
+            .education{background-color:rgb(101,99,99);
+            border-radius: 30px;
+            margin:20px;
+            max-width:auto;
+            padding:30px;
+            border:2px solid white;
+            }
+            
+            .em-des{
+                padding-left: 40px;
+            text-align: right;
+            position: relative;
+            font-size: 20px;
+            display: inline-block;}
+            
+            
