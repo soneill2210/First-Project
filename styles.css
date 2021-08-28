@@ -36,3 +36,6 @@ text-decoration: underline rgb(188, 206, 27) ;}
 
 li .active{background-color: rgb(188,206,27);
 border-radius: 20px;}
+
+.cover-img{width:100%;
+height:auto;}
