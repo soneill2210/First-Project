@@ -10,3 +10,27 @@ header{
 
 .nav-link{display: inline-block;
 position: relative;}
+
+.navbar ul, li, .nav-link
+{text-transform: uppercase;
+font-family: poppins,sans-serif;
+font-size:20px;
+color: white;
+text-align: center;
+list-style: none;
+display: inline-block;
+letter-spacing: 4px;
+margin-right:20px;}
+
+.navbar-toggler{margin-right:20px;}
+
+.logo{width:25%;
+margin-left:20px;}
+
+.collapse ul li{background-color:rgb(101,99,99);}
+
+li a:hover{color:white;
+text-decoration: underline rgb(188, 206, 27) ;}
+
+li .active{background-color: rgb(188,206,27);
+border-radius: 25px;}
