@@ -102,3 +102,14 @@ margin-top:3px;}
 h3{text-align:center;
 color:rgb(188, 206, 27);
 padding:20px; }
+
+#main-img{border-radius: 20px;
+    border:3px solid rgb(188, 206, 27)}
+
+.web-link{ text-decoration: none;
+    color:aqua;}
+
+.web-link:hover{color:rgb(0, 218, 0)}
+    
+.img-des{font-size: 15px;
+    text-align:justify;}
