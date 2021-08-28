@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300&display=swap');
+
 body{margin:0;
 padding:0;}
 
@@ -13,7 +15,7 @@ position: relative;}
 
 .navbar ul, li, .nav-link
 {text-transform: uppercase;
-font-family: poppins,sans-serif;
+font-family:Space Grotesk,sans-serif ;
 font-size:20px;
 color: white;
 text-align: center;
