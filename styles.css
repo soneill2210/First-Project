@@ -40,3 +40,15 @@ border-radius: 20px;}
 .cover-img{width:100%;
 height:auto;
 margin-top:3px;}
+
+.main{background-color:rgba(37, 34, 43, 0.644);}
+
+.profile-img{
+    float:left;
+    height:auto;
+    margin:10px 10px 10px 10px;
+    max-width:200px;
+    padding: 10px;
+    border-radius:25px;
+    box-shadow: rgb(188, 206, 27) 3px 3px 3px;
+    }
