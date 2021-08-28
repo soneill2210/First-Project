@@ -136,22 +136,25 @@ padding:20px; }
         margin:15px;
         height:200px;
         width:200px;}
+
         .em-logos{
-            position: relative;
-            max-width:40%;
-            border-radius: 25px;
+            margin:auto;
+            width:50%;
+            height:auto;
+            align-content: center;
+            border-radius: 15px;
             box-shadow: 5px 10px 9px black;
+            display: block;
             }
-            
-            
+
             .history-info{margin: 20px;}
-            
+
             h2{color: white;
             padding:25px;
             position: relative;
             text-align: center;
             text-decoration:underline 1px solid white;}
-            
+
             .em-history{background-color:rgb(101, 99, 99);
             border-radius: 30px;
             align-items: center;
@@ -161,20 +164,18 @@ padding:20px; }
             margin:20px;
             max-width: auto;
             border:2px solid white;}
-            
+
             .education{background-color:rgb(101,99,99);
             border-radius: 30px;
             margin:20px;
             max-width:auto;
-            padding:30px;
             border:2px solid white;
+            justify-content: flex-end;
             }
-            
+
             .em-des{
-                padding-left: 40px;
-            text-align: right;
+                padding:20px;
+            text-align: center;
             position: relative;
             font-size: 20px;
-            display: inline-block;}
-            
-            
+            display: block;}
