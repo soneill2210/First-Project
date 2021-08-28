@@ -46,9 +46,17 @@ margin-top:3px;}
 .profile-img{
     float:left;
     height:auto;
-    margin:10px 10px 10px 10px;
+    margin:20px 15px 15px 15px;
     max-width:200px;
     padding: 10px;
+    padding-top:10px;
     border-radius:25px;
     box-shadow: rgb(188, 206, 27) 3px 3px 3px;
     }
+
+    .introduction{
+        padding:25px;
+        text-align: justify;
+        color:white;
+        font-size:20px;
+    font-family: space grotesk,sans-serif;}
