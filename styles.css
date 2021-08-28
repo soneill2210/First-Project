@@ -89,3 +89,16 @@ margin-top:3px;}
             padding-bottom: 10px;
             border-top: 3px solid white;
         }
+
+        
+#about{
+    color:white;
+    font-family: space grotesk,sans-serif;
+    font-size:20px;
+    text-align: justify;
+    padding:15px;
+}
+
+h3{text-align:center;
+color:rgb(188, 206, 27);
+padding:20px; }
