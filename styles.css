@@ -167,13 +167,13 @@ padding:20px; }
             justify-content: center;
             padding: 20px;
             margin:20px;
-            max-width: auto;
+            max-width: 80%;
             border:2px solid white;}
 
             .education{background-color:rgb(101,99,99);
             border-radius: 30px;
             margin:20px;
-            max-width:auto;
+            max-width:80%;
             border:2px solid white;
             justify-content: flex-end;
             }
@@ -184,3 +184,10 @@ padding:20px; }
             position: relative;
             font-size: 20px;
             display: block;}
+
+            .ed-list li{margin:auto;
+        font-size:17px;
+    align-items: center;}
+
+        .em-ed{padding-top:70px;
+        margin:auto;}
