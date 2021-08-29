@@ -119,11 +119,11 @@ padding:20px; }
     text-align:justify;}
 
     .ezystak{ float:right;
-        max-width:60%;
+        width:40%;
       margin:20px;}
 
 
-.ezystak{border-radius: 25px;
+.sm-img{border-radius: 25px;
      border: 3px solid rgb(188, 206, 27);
   text-align: relative;}
 
