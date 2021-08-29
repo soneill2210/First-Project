@@ -198,3 +198,35 @@ padding:20px; }
 
         .em-ed{padding-top:70px;
         margin:auto;}
+
+        .pro-section{ border: 1px solid white;
+            text-align: center;
+            border-radius: 15px;
+            margin:15px;
+            padding: 15px;}
+            
+            .port-img{border-radius:25px;
+                padding:15px;
+            max-width: 75%;}
+
+            
+.project-text{text-align: center;
+    color: white;
+    font-size: 15px;}
+
+    .pro-btn{
+        background-color:green;
+        border-radius: 15px;
+        border:3px solid white;
+        width:200px;
+        height: 50px;
+        text-decoration: none;
+        color: white;
+        transition: ease-out 0.3s;
+        position: relative;
+        text-align: center;
+    }
+    
+    .pro-btn:hover{background-color:orangered;
+    letter-spacing: 2px;}
+    
