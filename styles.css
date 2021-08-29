@@ -41,7 +41,11 @@ border-radius: 20px;}
 height:auto;
 margin-top:3px;}
 
-.main{background-color:rgba(37, 34, 43, 0.644);}
+.main{background-color:rgba(37, 34, 43, 0.644);
+font-family: space grotesk,sans-serif;
+color: white;
+font-size:20px;
+padding:20px;}
 
 .profile-img{
     float:left;
@@ -125,7 +129,7 @@ padding:20px; }
 
   .lorry{width: 100%;}
 
-  
+
 .Rocco{float:left;
     margin: 10px;
     position: relative;
