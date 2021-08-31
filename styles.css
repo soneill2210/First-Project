@@ -57,7 +57,7 @@ li .active{
     float:left;
     height:auto;
     margin:auto;
-    max-width: 100%;
+    max-width:100%;
     height:auto;
     padding: 10px;
     padding-top:10px;
@@ -119,7 +119,7 @@ h3{
     color:rgb(188, 206, 27);
     padding:20px; }
 
-#main-img{max-width: 100%;}
+#main-img{width: 100%;}
 
 .web-link{
     text-decoration: none;
@@ -132,12 +132,15 @@ h3{
     text-align:justify;}
 
 .ezystak{
-    float:right;
-    width:40%;
-    margin:20px;}
+    max-width: 100%;
+    height:auto;
+float:right;
+position: relative;
+padding:20px;}
 
 
-.sm-img{text-align: relative;}
+.sm-img{text-align:relative;
+        max-width:100%;}
 
 .lorry{width: 100%;}
 
