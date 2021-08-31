@@ -119,9 +119,7 @@ h3{
     color:rgb(188, 206, 27);
     padding:20px; }
 
-#main-img{
-    border-radius: 20px;
-    border:3px solid rgb(188, 206, 27)}
+#main-img{max-width: 100%;}
 
 .web-link{
     text-decoration: none;
@@ -139,10 +137,7 @@ h3{
     margin:20px;}
 
 
-.sm-img{
-    border-radius: 25px;
-    border: 3px solid rgb(188, 206, 27);
-    text-align: relative;}
+.sm-img{text-align: relative;}
 
 .lorry{width: 100%;}
 
@@ -156,8 +151,6 @@ h3{
 
 .plc{
     align-items: center;
-    border-radius: 25px;
-    border:3px solid rgb(188,206,27);
     width:100%;}
 
 .LP{
