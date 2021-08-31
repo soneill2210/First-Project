@@ -56,12 +56,12 @@ li .active{
 .profile-img{
     float:left;
     height:auto;
-    margin:20px 15px 15px 15px;
-    max-width:200px;
+    margin:auto;
+    max-width: 100%;
+    height:auto;
     padding: 10px;
     padding-top:10px;
     border-radius:25px;
-    box-shadow: rgb(188, 206, 27) 3px 3px 3px;
     }
 
 .introduction{
