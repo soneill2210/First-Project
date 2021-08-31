@@ -11,8 +11,7 @@ header{
     background-color:rgb(104, 99, 99);
     box-shadow: black 0px 7px 7px;}
 
-.nav-link{
-    display: inline-block;
+.nav-link{display:inline-block;
     position: relative;}
 
 .navbar ul, li, .nav-link{
@@ -86,6 +85,9 @@ li .active{
     border:2px solid white;
     margin:10px;}
 
+.media-link{display:inline-block;
+padding:20px;}
+
 .reachme{
     padding:10px;
     text-decoration:underline 2px solid white;
@@ -100,8 +102,7 @@ li .active{
     background-color:rgb(104, 99, 99);
     padding-top:10px;
     padding-bottom: 10px;
-    border-top: 3px solid white;
-    }
+    border-top: 3px solid white;}
 
 
 #about{
@@ -109,8 +110,7 @@ li .active{
     font-family: space grotesk,sans-serif;
     font-size:20px;
     text-align: justify;
-    padding:15px;
-}
+    padding:15px;}
 
 h3{
     text-align:center;
