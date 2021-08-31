@@ -136,7 +136,8 @@ h3{
     height:auto;
 float:right;
 position: relative;
-padding:20px;}
+padding:20px;
+margin:auto;}
 
 
 .sm-img{text-align:relative;
@@ -147,10 +148,11 @@ padding:20px;}
 
 .Rocco{
     float:left;
-    margin: 10px;
+    margin:auto;
+    padding:20px;
     position: relative;
-    width:35%;
-    height:auto;}
+    height:auto;
+    max-width: 100%;}
 
 .plc{
     align-items: center;
