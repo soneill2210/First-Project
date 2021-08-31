@@ -78,7 +78,7 @@ li .active{
     height: 200px;
     font-size:80%;
     display:block;
-    background: rgb(172,150,104);
+    background-color:rgb(172,150,104);
     color:white;
     font-family: poppins,sans-serif;
     border-radius: 10px;
@@ -86,7 +86,9 @@ li .active{
     margin:10px;}
 
 .media-link{display:inline-block;
-padding:20px;}
+    align-items: center;
+    padding:10px;
+    padding-top:10px;}
 
 .reachme{
     padding:10px;
