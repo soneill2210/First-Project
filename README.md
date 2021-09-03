@@ -29,3 +29,8 @@ in my working career so far. The website also includes links to previous and cur
 
 The main reason I made this website is to outline the field of work I am in and also to add future projects to my portfolio as I continue to improve and build on my skills of different coding languages and shape my future as a Front End Developer.
 
+## 2. UX
+
+I have purposely developed my website to be easily accessible through navigation tools. Throughout each page I have included clickable web-links to external sites which are relatable to the page including social media links and web-page links to previous companies I have worked for which will provide further information for the user.
+
+I have chosen my colours based 
