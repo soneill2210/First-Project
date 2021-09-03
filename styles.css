@@ -134,14 +134,12 @@ h3{
 .ezystak{
     max-width: 100%;
     height:auto;
-float:right;
-position: relative;
-padding:20px;
-margin:auto;}
+    float:right;
+    position: relative;
+    padding:20px;
+    margin:auto;
+text-align: relative;}
 
-
-.sm-img{text-align:relative;
-        max-width:100%;}
 
 .lorry{width: 100%;}
 
