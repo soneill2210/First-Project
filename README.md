@@ -8,7 +8,7 @@
 
 3. Wireframes
 
-4. Features of Website
+4. Website Features
 
 5. Future Features of Website
 
@@ -66,6 +66,23 @@ Throughout this page is a number of clickable links to different websites relate
 
 At the bottom of this page are two sections which include my employment history as well as my education. In the first section of the employment history I have inserted the three logos of my previous employers which are also a clickable link. These logos will increase in size and conatain a border around them when the user hovers over them. Under these logos is my role at each company and the time spent there.
 
+At the bottom of every page is a footer with a copyright icon and my name.
+
+### Portfolio
+
+This webpage begins with a brief introduction as to what the purpose of the porfolio page is. I have also created six sections in which I will include a direct link to future projects I have worked on. I hope to fill this page quite quickly in order to build on my skills and different projects.
+
+### Contact Me
+
+In this page is a simple contact form which the user can use to get in touch with me through email. Once the message or enquiry is submitted it is directed to my own personal email inbox in which it can be replied to.
+
+## 5. Future Features of Website
+
+As this project is solely based on HTML and CSS, I have used no other languages throughout. When I start to learn Javascript, I plan to implement so javascript functions into this project. Two of the main things I would like to include in the future are:
+
+**Audio and visual controls** - I hope to add a short video of one of these Jaw Crushers in operation to show how each of the machines we manufacture are specified for different duties and environments.
+
+**Submit** - I also would like to add a 'Thank You' response to the 'Submit' button when the user fills out the contact form in the 'Contact Me' page of the website.
 
 
 
