@@ -64,6 +64,8 @@ I have included quite a lot of information about myself in my 'About Me' page. I
 
 Throughout this page is a number of clickable links to different websites related to myself. They include companies I have worked for in the past as well as where I studied my electrical course. I have highlighted this links by changing the color of the text as well as the hover function.
 
+At the bottom of this page are two sections which include my employment history as well as my education. In the first section of the employment history I have inserted the three logos of my previous employers which are also a clickable link. These logos will increase in size and conatain a border around them when the user hovers over them. Under these logos is my role at each company and the time spent there.
+
 
 
 
