@@ -49,7 +49,22 @@ Although not all the wireframes I created were what the final project looked lik
 
 ## 4. WEBSITE FEATURES
 
-### Navbar
+### Home Page
+
+The navbar I have used throughout my website is quite simplistic which provides a four page menu bar that allows the user to navigate thorugh the website easily. This navbar menu is made responsive to whatever size of screen the user is using so on smaller screens it will collapse into a hamburger button. I have also designed my own logo which is visible in every page as well as a smaller screen.
+
+In the home page I have just included a small introduction as to give the user a brief insight into myself and what they will find in this
+website. This indroduction is also accompanied by a profile picture of myself which is also responsive to different device screens.
+
+At the bottom of each page are three sections which include all the information the user might need to know in order to contact me or view my online profiles. These include my phone number, email address and the links to my Facebook, LinkedIn and Github pprofiles. The middle section includes a 'Download CV' which will allow the user to view my CV which I have also updated for this project.
+
+### About Me
+
+I have included quite a lot of information about myself in my 'About Me' page. I wanted to give the user as much detail as I possibly could about my work. I have approached this page as more of an article based piece, starting from when I first left school and started work to where I am now. This page also provides images of machines and control panels we have worked on which I feel will give the user a better understanding of the work I am involved in.
+
+Throughout this page is a number of clickable links to different websites related to myself. They include companies I have worked for in the past as well as where I studied my electrical course. I have highlighted this links by changing the color of the text as well as the hover function.
+
+
 
 
 
