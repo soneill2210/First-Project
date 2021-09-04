@@ -76,13 +76,19 @@ This webpage begins with a brief introduction as to what the purpose of the porf
 
 In this page is a simple contact form which the user can use to get in touch with me through email. Once the message or enquiry is submitted it is directed to my own personal email inbox in which it can be replied to.
 
-## 5. Future Features of Website
+## 5. FUTURE FEATURES OF THE WEBSITE
 
 As this project is solely based on HTML and CSS, I have used no other languages throughout. When I start to learn Javascript, I plan to implement so javascript functions into this project. Two of the main things I would like to include in the future are:
 
 **Audio and visual controls** - I hope to add a short video of one of these Jaw Crushers in operation to show how each of the machines we manufacture are specified for different duties and environments.
 
 **Submit** - I also would like to add a 'Thank You' response to the 'Submit' button when the user fills out the contact form in the 'Contact Me' page of the website.
+
+## 6. TECHNOLOGIES USED
+
+In order to create this website I have used a number of different platforms and technologies in order to carry out different functions. They are as follows:
+
+**Balsamiq** I used Balsamiq in order to carry out and implement a plan for the layout of my p
 
 
 
