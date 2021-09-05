@@ -45,7 +45,7 @@ I have used imagery in my project for two main reasons:
 
 ## 3. WIREFRAMES
 
-As before any project, there was quite a bit of planning that had to be done before anything was started. I had to decide on the page layout and the functionality of the webpage before any code was written. I used Balsamiq in order to do this. This allows my to easily sketch out frames of each page and how I wanted them to be perceived by the user.
+As before any project, there was quite a bit of planning that had to be done before anything was started. I had to decide on the page layout and the functionality of the webpage before any code was written. I used Balsamiq in order to do this. This allows me to easily sketch out frames of each page and how I wanted them to be perceived by the user.
 
 Although not all the wireframes I created were what the final project looked like, I found this process saved me time and also give my a clearer view on what direction I wanted to take with my project.
 
@@ -90,7 +90,7 @@ As this project is solely based on HTML and CSS, I have used no other languages 
 
 In order to create this website I have used a number of different platforms and technologies in order to carry out different functions. They are as follows:
 
-**Balsamiq**I used Balsamiq in order to carry out and implement a plan for the layout of my project.
+**Balsamiq** I used Balsamiq in order to carry out and implement a plan for the layout of my project.
 
 **HTML5** I used HTML5 to create the content of this website.
 
@@ -114,7 +114,7 @@ There were a few issues that I encountered while working on this project which I
 
 ### Placement of images
 
-I found the placement of a few images I have used an issue especially when it came to loading the website onto a smaller screen but eventually got it resolved with a few positioning styles.
+I found with the placement of a few images I have used an issue especially when it came to loading the website onto a smaller screen but eventually got it resolved with a few positioning styles.
 
 ### Sizing
 
@@ -150,9 +150,9 @@ To run my code locally, users can download a local copy of my code to their desk
 
 **Ipower Website** There were several images taken from 'www.ipowerireland.com' which include the image of the lorry and the Ipower logo which is used in the 'Employment History' section.
 
-**Axon Website** There were two images taken from www.axon-online.com which were the Axon logo used in the 'Employment History' section of the website, and also the image of the recycling plant which is on the 'About Me' page.
+**Axon Website** There were two images taken from 'www.axon-online.com' which were the Axon logo used in the 'Employment History' section of the website, and also the image of the recycling plant which is on the 'About Me' page.
 
-**Tes Website** One image was taken from the www.tesgroup.com which was the logo used in the 'Employment History' section of the website.
+**Tes Website** One image was taken from the 'www.tesgroup.com' which was the logo used in the 'Employment History' section of the website.
 
 
 
