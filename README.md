@@ -100,6 +100,8 @@ In order to create this website I have used a number of different platforms and 
 
 **Visual Studio Code** I have used Visual Studio Code as the platform for writing my code for my project.
 
+**Github** I used Github to create a repository for my project where I can store all my committed changes.
+
 
 
 
