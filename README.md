@@ -88,7 +88,17 @@ As this project is solely based on HTML and CSS, I have used no other languages 
 
 In order to create this website I have used a number of different platforms and technologies in order to carry out different functions. They are as follows:
 
-**Balsamiq** I used Balsamiq in order to carry out and implement a plan for the layout of my p
+**Balsamiq** I used Balsamiq in order to carry out and implement a plan for the layout of my project.
+
+**HTML5** I used HTML5 to create the content of this website.
+
+**CSS** I used CSS for the design and to custom style the elements on my webpage.
+
+**Bootstrap v5.0** I used Bootstrap in order to create a responsive grid system so the website will be responsive on all devices.
+
+**Google Fonts** I have used Google fonts in order to create a style font for my project.
+
+**Visual Studio Code** I have used Visual Studio Code as the platform for writing my code for my project.
 
 
 
