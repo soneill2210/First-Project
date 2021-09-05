@@ -156,3 +156,13 @@ To run my code locally, users can download a local copy of my code to their desk
 
 
 
+## Acknowledgements
+
+* While working on this project I was able to access a lot of useful information through W3schools website which proved beneficial to me.
+
+* I also reached out to the Slack Community who helped me with a few issues I was dealing with at the beginning with my Navbar.
+
+* I would also like to give a special mention to my mentor Sunny Hebbar and to Luke Walters-Leatherbarrow who used there experience to help guide me during the project as well as their many words of encouragement.
+
+
+
