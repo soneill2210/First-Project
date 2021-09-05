@@ -88,7 +88,8 @@ As this project is solely based on HTML and CSS, I have used no other languages 
 
 In order to create this website I have used a number of different platforms and technologies in order to carry out different functions. They are as follows:
 
-**Balsamiq** I used Balsamiq in order to carry out and implement a plan for the layout of my project.
+**Balsamiq**--
+I used Balsamiq in order to carry out and implement a plan for the layout of my project.
 
 **HTML5** I used HTML5 to create the content of this website.
 
