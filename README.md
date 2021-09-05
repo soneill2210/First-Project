@@ -18,9 +18,11 @@
 
 8. Problems Encountered
 
-9. Credits
+9. Deployment to Github
 
-10. Acknowledgements
+10. Credits
+
+11. Acknowledgements
 
 ## 1. INTRODUCTION
 
@@ -106,13 +108,51 @@ In order to create this website I have used a number of different platforms and 
 
 I used the Google development tool to constantly check each change that I made to my webpage against the different screen sizes provided, from mobile devices to ipad and desktop, to see if functions of the website was working as I intended.
 
-
 ## PROBLEMS ENCOUNTERED
 
 There were a few issues that I encountered while working on this project which I had to resolve.
 
-#### Placement of images
+### Placement of images
 
+I found the placement of a few images I have used an issue especially when it came to loading the website onto a smaller screen but eventually got it resolved with a few positioning styles.
+
+### Sizing
+
+At the beginning I found that the sizing of different sections in my website wasn't working to the desired effect. Although frustrating at times, it was practising more with the functionality of Bootstrap which helped this issue.
+
+## DEPLOYMENT TO GITHUB
+
+In order to deploy my project to Github I followed the following steps:
+
+1. Opened up Visual Studio Code and used the 'Get Bootstrap' webpage to copy over the base for the project which included Bootstrp itself as well as the appropriate meta tags etc.
+
+2. After I inserted this into my VS Code, I saved it and used the 'Account' settings to link my project to the disired respository which I had opened in Github call 'First-project'.
+
+3. After linking this to my repository, I then used the 'Source Control' option to initiate my first commit. I named this 'init commit'.
+
+4. From that point on throughout working on my project I would commit to Github often in order to keep my most recent changed stored in my repository.
+
+### Running Code Locally
+
+To run my code locally, users can download a local copy of my code to their desktop by completing the following steps:
+
+1. Got to my Github repository.
+
+2. Click on 'Clone or Download'.
+
+3. Click on 'Download ZIP'.
+
+4. Once downloaded, extract the zip files contents and run my website locally.
+
+## Credits
+
+**Google Images** The opening image in my 'index' titled wiring was taken from Google images as well as the 'Under Construction' images which I used for my Portfolio page.
+
+**Ipower Website** There were several images taken from 'www.ipowerireland.com' which include the image of the lorry and the Ipower logo which is used in the 'Employment History' section.
+
+**Axon Website** There were two images taken from www.axon-online.com which were the Axon logo used in the 'Employment History' section of the website, and also the image of the recycling plant which is on the 'About Me' page.
+
+**Tes Website** One image was taken from the www.tesgroup.com which was the logo used in the 'Employment History' section of the website.
 
 
 
