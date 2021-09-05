@@ -21,9 +21,8 @@ header{
     color: white;
     text-align: center;
     list-style: none;
-    display: inline-block;
     letter-spacing: 4px;
-    margin-right:20px;}
+    padding:10px;}
 
 .navbar-toggler{margin-right:20px;}
 
