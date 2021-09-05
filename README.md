@@ -111,7 +111,7 @@ I used the Google development tool to constantly check each change that I made t
 
 There were a few issues that I encountered while working on this project which I had to resolve.
 
-** *Placement of images**
+#### Placement of images
 
 
 
