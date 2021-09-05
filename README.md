@@ -102,6 +102,16 @@ In order to create this website I have used a number of different platforms and 
 
 **Github** I used Github to create a repository for my project where I can store all my committed changes.
 
+## TESTING OF RESPONSIVNESS
+
+I used the Google development tool to constantly check each change that I made to my webpage against the different screen sizes provided, from mobile devices to ipad and desktop, to see if functions of the website was working as I intended.
+
+
+## PROBLEMS ENCOUNTERED
+
+There were a few issues that I encountered while working on this project which I had to resolve.
+
+** *Placement of images**
 
 
 
