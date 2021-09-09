@@ -94,7 +94,6 @@ li .active{
 
 .media-link:hover{
     background-color:rgb(188,206,27);
-    color:white;
     border:2px solid white;}
 
 .reachme{
@@ -138,17 +137,19 @@ h3{
     font-size: 15px;
     text-align:justify;}
 
-.ezystak{
+.ezystak{ 
     max-width: 100%;
     height:auto;
     float:right;
     position: relative;
     padding:20px;
-    margin:auto;
-text-align: relative;}
+    text-align:relative;
+    margin:auto;}
 
 
-.lorry{width: 100%;}
+.lorry{ width: 100%;
+        margin:auto;
+}
 
 
 .Rocco{
