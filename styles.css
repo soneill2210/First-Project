@@ -56,7 +56,6 @@ li .active{
     float:left;
     height:auto;
     margin:auto;
-    max-width:auto;
     height:auto;
     padding: 10px;
     padding-top:10px;
@@ -258,9 +257,9 @@ text-align: center;}
     letter-spacing: 2px;}
 
 form{
-    max-width: 60%;
+    max-width: 80%;
     border:2px solid white;
-    margin:10px auto;
+    margin:auto;
     padding:2rem;}
 
 #submit-btn:hover{
