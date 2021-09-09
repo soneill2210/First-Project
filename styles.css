@@ -202,8 +202,7 @@ h2{
     border-radius: 30px;
     margin:20px;
     max-width:80%;
-    border:2px solid white;
-    justify-content: flex-end;}
+    border:2px solid white;}
 
 .em-des{
     padding:20px;
@@ -213,15 +212,15 @@ h2{
     display: block;}
 
 .ed-list li{
-    margin:auto;
-    font-size:17px;
-    padding:20px;
-    align-items: center;
-}
+    text-align: center;}
+
+.school, .college, .study{ padding: 35px;
+                           font-size:20px;}
 
 .em-ed{
-    padding-top:70px;
-    margin:auto;}
+    padding:40px;
+    margin:auto;
+text-align: center;}
 
 .pro-section{
     border: 1px solid white;
