@@ -50,21 +50,20 @@ li .active{
     font-family: space grotesk,sans-serif;
     color: white;
     font-size:20px;
-    padding:20px;}
+    padding:10px;}
 
 .profile-img{
     float:left;
-    height:auto;
     margin:auto;
     height:auto;
     padding: 10px;
-    padding-top:10px;
+    padding-top:20px;
     border-radius:25px;
     }
 
 .introduction{
     padding:25px;
-    text-align: justify;
+    text-align: relative;
     color:white;
     font-size:20px;
     font-family: space grotesk,sans-serif;}
@@ -137,13 +136,11 @@ h3{
     text-align:justify;}
 
 .ezystak{ 
-    max-width: 100%;
     height:auto;
-    float:right;
-    position: relative;
+    float:left;
     padding:20px;
-    text-align:relative;
-    margin:auto;}
+    margin:auto;
+    position: relative;}
 
 
 .lorry{ width: 100%;
@@ -171,10 +168,9 @@ h3{
     border-radius: 15px;
     box-shadow: 5px 10px 9px black;
     display: block;}
-        
+
 .em-logos:hover{
-    border: 3px solid yellow;
-    width:65%;}
+    border: 5px solid yellow;}
 
 .history-info{margin: 20px;}
 
