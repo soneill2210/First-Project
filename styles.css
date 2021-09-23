@@ -61,6 +61,7 @@ li .active{
     border-radius:25px;
     }
 
+
 .introduction{
     padding:25px;
     text-align: relative;
@@ -89,6 +90,15 @@ li .active{
     color: blue;
     border-radius: 50px;
     background-color:white;}
+
+    @media (max-width:780px) {
+        .media-link{
+            margin: 5px;
+            padding:6px;
+            padding-top: 10px;
+            align-items: center;
+        }
+    }
 
 .media-link:hover{
     background-color:rgb(188,206,27);
