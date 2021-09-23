@@ -40,7 +40,7 @@ li a:hover{
 li .active{
     background-color: rgb(188,206,27);
     border-radius: 20px;
-    width:40%;}
+    width:80%;}
 
 .cover-img{
     width:100%;
@@ -227,7 +227,7 @@ h2{
 .em-ed{
     padding:40px;
     margin:auto;
-text-align: center;}
+    text-align: center;}
 
 .pro-section{
     border: 1px solid white;
