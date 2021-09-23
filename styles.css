@@ -27,9 +27,11 @@ header{
 .navbar-toggler{margin-right:20px;}
 
 .logo{
-    width:75%;}
+    width:25%;
+    margin-left: 10px;}
 
-.collapse ul li{background-color:rgb(101,99,99);}
+.collapse ul li{background-color:rgb(101,99,99);
+}
 
 li a:hover{
     color:white;
@@ -37,7 +39,8 @@ li a:hover{
 
 li .active{
     background-color: rgb(188,206,27);
-    border-radius: 20px;}
+    border-radius: 20px;
+    width:40%;}
 
 .cover-img{
     width:100%;
