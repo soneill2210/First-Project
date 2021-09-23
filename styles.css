@@ -40,7 +40,7 @@ li a:hover{
 li .active{
     background-color: rgb(188,206,27);
     border-radius: 20px;
-    width:80%;}
+    width:100%;}
 
 .cover-img{
     width:100%;
