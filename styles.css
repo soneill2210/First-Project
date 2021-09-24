@@ -48,7 +48,7 @@ li .active{
     height:auto;
     margin-top:3px;}
 
-.main{
+main{
     background-color:rgba(37,34,43, 0.644);
     font-family: space grotesk,sans-serif;
     color: white;
