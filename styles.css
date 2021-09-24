@@ -21,17 +21,18 @@ header{
     color: white;
     text-align: center;
     list-style: none;
-    display: inline-block;
     letter-spacing: 4px;
-    margin-right:20px;}
+    padding:10px;}
 
 .navbar-toggler{margin-right:20px;}
 
 .logo{
     width:25%;
-    margin-left:20px;}
+    margin-left: 10px;
+    float: left;}
 
-.collapse ul li{background-color:rgb(101,99,99);}
+.collapse ul li{background-color:rgb(101,99,99);
+}
 
 li a:hover{
     color:white;
@@ -39,7 +40,8 @@ li a:hover{
 
 li .active{
     background-color: rgb(188,206,27);
-    border-radius: 20px;}
+    border-radius: 20px;
+    width:100%;}
 
 .cover-img{
     width:100%;
@@ -47,26 +49,39 @@ li .active{
     margin-top:3px;}
 
 .main{
-    background-color:rgba(37, 34, 43, 0.644);
+    background-color:rgba(37,34,43, 0.644);
     font-family: space grotesk,sans-serif;
     color: white;
     font-size:20px;
-    padding:20px;}
+    padding:10px;}
 
 .profile-img{
     float:left;
-    height:auto;
     margin:auto;
-    max-width:100%;
     height:auto;
     padding: 10px;
-    padding-top:10px;
+    padding-top:20px;
     border-radius:25px;
     }
+@media (max-width:550px){
+    .profile-img{
+        width:70%;
+        height:20%;
+        text-align:start;
+        text-align-last: center;
+        align-items: center;
+        margin-right:15%;
+        margin-left:15%;
+        border-radius:80px;
+        border:2px solid rgb(165, 165, 1);
+        padding:0;
+        margin-bottom: 10%;
+    }
+}
 
 .introduction{
     padding:25px;
-    text-align: justify;
+    text-align: relative;
     color:white;
     font-size:20px;
     font-family: space grotesk,sans-serif;}
@@ -88,7 +103,23 @@ li .active{
 .media-link{display:inline-block;
     align-items: center;
     padding:10px;
-    padding-top:10px;}
+    margin:15px;
+    color: blue;
+    border-radius: 50px;
+    background-color:white;}
+
+    @media (max-width:780px) {
+        .media-link{
+            margin: 5px;
+            padding:6px;
+            padding-top: 10px;
+            align-items: center;
+        }
+    }
+
+.media-link:hover{
+    background-color:rgb(188,206,27);
+    border:2px solid white;}
 
 .reachme{
     padding:10px;
@@ -131,17 +162,17 @@ h3{
     font-size: 15px;
     text-align:justify;}
 
-.ezystak{
-    max-width: 100%;
+.ezystak{ 
     height:auto;
-    float:right;
-    position: relative;
+    float:left;
     padding:20px;
     margin:auto;
-text-align: relative;}
+    position: relative;}
 
 
-.lorry{width: 100%;}
+.lorry{ width: 100%;
+        margin:auto;
+}
 
 
 .Rocco{
@@ -156,12 +187,6 @@ text-align: relative;}
     align-items: center;
     width:100%;}
 
-.LP{
-    float:right;
-    margin:15px;
-    height:200px;
-    width:200px;}
-
 .em-logos{
     margin:auto;
     width:55%;
@@ -170,10 +195,9 @@ text-align: relative;}
     border-radius: 15px;
     box-shadow: 5px 10px 9px black;
     display: block;}
-        
+
 .em-logos:hover{
-    border: 3px solid yellow;
-    width:65%;}
+    border: 5px solid yellow;}
 
 .history-info{margin: 20px;}
 
@@ -200,8 +224,7 @@ h2{
     border-radius: 30px;
     margin:20px;
     max-width:80%;
-    border:2px solid white;
-    justify-content: flex-end;}
+    border:2px solid white;}
 
 .em-des{
     padding:20px;
@@ -211,13 +234,15 @@ h2{
     display: block;}
 
 .ed-list li{
-    margin:auto;
-    font-size:17px;
-    align-items: center;}
+    text-align: center;}
+
+.school, .college, .study{ padding: 35px;
+                           font-size:20px;}
 
 .em-ed{
-    padding-top:70px;
-    margin:auto;}
+    padding:40px;
+    margin:auto;
+    text-align: center;}
 
 .pro-section{
     border: 1px solid white;
@@ -255,9 +280,9 @@ h2{
     letter-spacing: 2px;}
 
 form{
-    max-width: 60%;
+    max-width: 80%;
     border:2px solid white;
-    margin:10px auto;
+    margin:auto;
     padding:2rem;}
 
 #submit-btn:hover{
@@ -283,7 +308,7 @@ textarea{
     border-radius: 10px;
     padding:0.5rem;
     color:white;
-    width:auto;
+    width:100%;
     text-transform: uppercase;
     font-size: 18px;
     position: relative;}
