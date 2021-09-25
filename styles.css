@@ -167,7 +167,9 @@ h3{
     float:left;
     padding:20px;
     margin:auto;
-    position: relative;}
+    position: relative;
+    padding-top: 10px;
+    padding-bottom: 20px;}
 
 
 .lorry{ width: 100%;
@@ -181,7 +183,9 @@ h3{
     padding:20px;
     position: relative;
     height:auto;
-    max-width: 100%;}
+    max-width: 100%;
+    padding-bottom: 30px;
+padding-top: 10px;}
 
 .plc{
     align-items: center;
@@ -205,6 +209,7 @@ h2{
     color: white;
     padding:25px;
     position: relative;
+    width: 100%;
     text-align: center;
     text-decoration:underline 1px solid white;}
 
@@ -222,7 +227,10 @@ h2{
 .education{
     background-color:rgb(101,99,99);
     border-radius: 30px;
+    align-items: center;
+    justify-content: center;
     margin:20px;
+    padding:20px;
     max-width:80%;
     border:2px solid white;}
 
@@ -233,16 +241,13 @@ h2{
     font-size: 20px;
     display: block;}
 
-.ed-list li{
-    text-align: center;}
 
-.school, .college, .study{ padding: 35px;
-                           font-size:20px;}
+.school, .college, .study{padding-bottom: 40px;
+                          font-size:20px;
+                          text-align:center;
+                          width:100%;}
 
-.em-ed{
-    padding:40px;
-    margin:auto;
-    text-align: center;}
+.em-ed{text-align: center;}
 
 .pro-section{
     border: 1px solid white;
