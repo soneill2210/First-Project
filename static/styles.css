@@ -147,12 +147,12 @@ h3{
     padding:20px;
     margin:auto;
     position: relative;
-    padding-top: 10px;
-    padding-bottom: 20px;}
+   }
 
 
 .lorry{ width: 100%;
         margin:auto;
+        padding:20px;
 }
 
 
@@ -163,12 +163,12 @@ h3{
     position: relative;
     height:auto;
     max-width: 100%;
-    padding-bottom: 30px;
-padding-top: 10px;}
+    }
 
 .plc{
     align-items: center;
-    width:100%;}
+    width:100%;
+    padding:20px;}
 
 .em-logos{
     margin:auto;
