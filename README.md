@@ -132,14 +132,9 @@ In order to deploy my project to Github I followed the following steps:
 
 4. From that point on throughout working on my project I would commit to Github often in order to keep my most recent changed stored in my repository.
 
-### How to run code locally
+### Github repository link
 
-In order to run my code locally, users can download a local copy of my code to their desktop by completing the following steps:
-
-1. Go to my GitHub repository.
-2. Click on 'Clone or download'.
-3. Click on 'Download ZIP'.
-4. Once downloaded, extract the zip file's contents and run my website locally.
+https://github.com/soneill2210/First-Project
 
 ### Running Code Locally
 
