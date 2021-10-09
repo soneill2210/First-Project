@@ -63,21 +63,7 @@ main{
     padding-top:20px;
     border-radius:25px;
     }
-@media (max-width:550px){
-    .profile-img{
-        width:70%;
-        height:20%;
-        text-align:start;
-        text-align-last: center;
-        align-items: center;
-        margin-right:15%;
-        margin-left:15%;
-        border-radius:80px;
-        border:2px solid rgb(165, 165, 1);
-        padding:0;
-        margin-bottom: 10%;
-    }
-}
+
 
 .introduction{
     padding:25px;
@@ -108,14 +94,7 @@ main{
     border-radius: 50px;
     background-color:white;}
 
-    @media (max-width:780px) {
-        .media-link{
-            margin: 5px;
-            padding:6px;
-            padding-top: 10px;
-            align-items: center;
-        }
-    }
+   
 
 .media-link:hover{
     background-color:rgb(188,206,27);
@@ -325,3 +304,28 @@ h4{
     color:white;
     font-family: space grotesk,sans-serif;
     justify-content: auto;}
+
+    @media (max-width:550px){
+        .profile-img{
+            width:70%;
+            height:20%;
+            text-align:start;
+            text-align-last: center;
+            align-items: center;
+            margin-right:15%;
+            margin-left:15%;
+            border-radius:80px;
+            border:2px solid rgb(165, 165, 1);
+            padding:0;
+            margin-bottom: 10%;
+        }
+    }
+
+    @media (max-width:780px) {
+        .media-link{
+            margin: 5px;
+            padding:6px;
+            padding-top: 10px;
+            align-items: center;
+        }
+    }
